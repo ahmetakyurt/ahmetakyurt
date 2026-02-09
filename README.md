@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🌱 I am currently a first-year university student in the AI engineering department.
+
 <!--
 **ahmetakyurt/ahmetakyurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
