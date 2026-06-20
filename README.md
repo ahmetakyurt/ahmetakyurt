@@ -1,18 +1,18 @@
-# Merhaba, Ben Ahmet Akyurt 👋
+# Hey, I'm Ahmet Akyurt 👋
 
-### 🤖 Yapay Zeka Mühendisliği Öğrencisi
-Yapay zeka, makine öğrenmesi ve veri bilimi dünyasında derinleşen bir mühendis adayıyım. 18 yaşındayım ve GitHub'ımı her gün yeni projelerle zenginleştiriyorum.
-
----
-
-### 🚀 Nelerle İlgileniyorum?
-- 🐍 **Python:** Makine Öğrenmesi Uygulamaları ve Veri Analizi
-- 🧠 **ML & Deep Learning:** Algoritmalar ve Model Eğitimi
-- 💻 **Yazılım Geliştirme:** Java ve Algoritmik Problem Çözme
+### 🤖 AI Engineering Student
+I'm an aspiring engineer diving deep into artificial intelligence, machine learning, and data science. I'm 18 years old and constantly enriching my GitHub with new projects every day.
 
 ---
 
-### 📊 GitHub & Yazılım İstatistiklerim
+### 🚀 What I'm Into
+- 🐍 **Python:** Machine Learning Applications & Data Analysis
+- 🧠 **ML & Deep Learning:** Algorithms and Model Training
+- 💻 **Software Development:** Java and Algorithmic Problem Solving
+
+---
+
+### 📊 GitHub & Coding Stats
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -27,5 +27,5 @@ Yapay zeka, makine öğrenmesi ve veri bilimi dünyasında derinleşen bir mühe
 
 ---
 
-### 📫 Bana Ulaşın
+### 📫 Get in Touch
 [LinkedIn](https://www.linkedin.com/in/ahmet-akyurt-b2a517281) | [Kaggle](https://www.kaggle.com/ahmetakyurt)
