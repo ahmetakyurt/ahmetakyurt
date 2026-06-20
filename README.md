@@ -9,6 +9,8 @@ I'm an aspiring engineer diving deep into artificial intelligence, machine learn
 - 🐍 **Python:** Machine Learning Applications & Data Analysis
 - 🧠 **ML & Deep Learning:** Algorithms and Model Training
 - 💻 **Software Development:** Java and Algorithmic Problem Solving
+- 🎨 **Vibe Coding:** Building Projects with AI-Assisted Development
+- 🤖 **Agentic Systems:** Designing Autonomous AI Agents & Workflows
 
 ---
 
